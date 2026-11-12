@@ -1,0 +1,1439 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Dtronics
+Control Surface Model	DT 300
+Map Version	1.0.0
+// Date 23 August 2018
+
+
+Scope	Propellerheads	Combinator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Rate				
+//Map	LFO Delay				
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Rotary 1		
+Map	VCF Res		Rotary 2		
+Map	VCF Key Follow		Rotary 3		
+Map	VCF Aftertouch		Rotary 4		
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+//Map	VCF Env				
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+//Map	Env T3				
+//Map	Env L3				
+//Map	Env T4				
+//Map	Env Key Follow				
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Propellerhead Software	se.propellerheads.Europa			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Rate		
+Map	LFO Delay		LFO 1 Delay		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Osc2 Level		
+Map	Noise Level		Osc3 Level		
+//FILTER 1					
+Map	VCF Freq		Filter Freq		
+Map	VCF Res		Filter Reso		
+Map	VCF Key Follow		Filter Kbd		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Master Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter Mod		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+Map	Env T3		Amp Attack		
+Map	Env L3		Amp Decay		
+Map	Env T4		Amp Sustain		
+Map	Env Key Follow		Amp Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Propellerhead Software	se.propellerheads.Grain			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Rate		
+Map	LFO Delay		LFO 1 Delay		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Osc2 Level		
+Map	Noise Level		Osc3 Level		
+//FILTER 1					
+Map	VCF Freq		Filter Freq		
+Map	VCF Res		Filter Reso		
+Map	VCF Key Follow		Filter Kbd		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Master Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter Mod		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+Map	Env T3		Amp Attack		
+Map	Env L3		Amp Decay		
+Map	Env T4		Amp Sustain		
+Map	Env Key Follow		Amp Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Propellerheads	Thor Polysonic Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Rate		
+Map	LFO Delay		LFO 1 Delay		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+Map	Pulse		Osc 1 Mod		
+Map	Sawtooth		Osc 2 Mod		
+//Map	Sub				
+//Map	PWM				
+Map	PWM Rate		LFO 2 Rate		
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Osc 1 And 2 Level		
+Map	Noise Level		Osc 3 Level		
+//FILTER 1					
+Map	VCF Freq		Filter 1 Freq		
+Map	VCF Res		Filter 1 Res		
+Map	VCF Key Follow		Filter 1 Kbd		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter 3 Freq		
+//AMP					
+Map	VCA Level		Master Level		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter 1 Env Amount		
+Map	VCF Env Mode		Filter 1 Env Invert		
+//AMP ENV					
+Map	VCA Env Mode		Key Mode		
+//ENV 1-4					
+Map	Env T1		Filter Env Attack		
+Map	Env L1		Filter Env Decay		
+Map	Env T2		Filter Env Sustain		
+Map	Env L2		Filter Env Release		
+//ENV 4-8					
+Map	Env T3		Amp Env Attack		
+Map	Env L3		Amp Env Decay		
+Map	Env T4		Amp Env Sustain		
+Map	Env Key Follow		Amp Env Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+Map	Chorus On		Chorus Dry Wet		
+Map	Chorus Rate		Delay Time		
+//					
+
+Scope	Propellerheads	SubTractor Analog Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO2 Rate		
+Map	LFO Delay		LFO2 Delay		
+Map	DCO LFO		LFO2 Amount		
+Map	VCF LFO		LFO1 Amount		
+//OSC					
+Map	Pulse		Osc1 Wave		
+Map	Sawtooth		Osc2 Phase Diff		
+Map	Sub		FM Amount		
+Map	PWM		Osc1 Phase Diff		
+Map	PWM Rate		LFO1 Rate		
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Osc Mix		
+Map	Noise Level		Noise Level		
+//FILTER 1					
+Map	VCF Freq		Filter Freq		
+Map	VCF Res		Filter Res		
+Map	VCF Key Follow		Filter Kbd Track		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter2 Freq		
+//AMP					
+Map	VCA Level		Master Level		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+Map	DCO Env		Mod Env Gain		
+Map	DCO Env Mode		Mod Env Invert		
+//FILTER ENV					
+Map	VCF Env		Filter Env Amount		
+Map	VCF Env Mode		Filter Env Invert		
+//AMP ENV					
+Map	VCA Env Mode		Key Mode		
+//ENV 1-4					
+Map	Env T1		Filter Env Attack		
+Map	Env L1		Filter Env Decay		
+Map	Env T2		Filter Env Sustain		
+Map	Env L2		Filter Env Release		
+//ENV 4-8					
+Map	Env T3		Amp Env Attack		
+Map	Env L3		Amp Env Decay		
+Map	Env T4		Amp Env Sustain		
+Map	Env Key Follow		Amp Env Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+Map	Chorus On		Ring Mod		
+//Map	Chorus Rate				
+//					
+
+Scope	AudioRealism	se.audiorealism.Dominator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Rate		
+Map	LFO Delay		LFO Delay		
+Map	DCO LFO		DCO LFO Amount		
+Map	VCF LFO		VCF LFO Amount		
+//OSC					
+Map	Pulse		DCO Pulse		
+Map	Sawtooth		DCO Saw		
+Map	Sub		DCO Sub		
+Map	PWM		DCO PWM		
+Map	PWM Rate		DCO PWM Rate		
+Map	DCO Range		DCO Range		
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		DCO Sub Level		
+Map	Noise Level		DCO Noise Level		
+//FILTER 1			VCF Env Amount		
+Map	VCF Freq		VCF Frequency		
+Map	VCF Res		VCF Resonance		
+Map	VCF Key Follow		VCF Key Follow		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		VCF HPF		
+//AMP					
+Map	VCA Level		VCA Level		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+Map	DCO Env		DCO Env Depth		
+Map	DCO Env Mode		DCO Env Mode		
+//FILTER ENV					
+Map	VCF Env		VCA Env		
+Map	VCF Env Mode		VCF Env Mode		
+//AMP ENV					
+Map	VCA Env Mode		VCA Env Mode		
+//ENV 1-4					
+Map	Env T1		ENV T1		
+Map	Env L1		ENV L1		
+Map	Env T2		ENV T2		
+Map	Env L2		ENV L2		
+//ENV 4-8					
+Map	Env T3		ENV T3		
+Map	Env L3		ENV L3		
+Map	Env T4		ENV T4		
+Map	Env Key Follow		ENV Key Follow		
+//PERFORMANCE					
+Map	Bender Range		Bender Range		
+//CHORUS					
+Map	Chorus On		Chorus Enabled		
+Map	Chorus Rate		Chorus Rate		
+//					
+
+Scope	Propellerheads	NN19 Digital Sampler			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Rate		
+//Map	LFO Delay				
+//Map	DCO LFO				
+Map	VCF LFO		LFO Amount		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter Freq		
+Map	VCF Res		Filter Res		
+Map	VCF Key Follow		Filter Kbd Track		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Master Level		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter Env Amount		
+Map	VCF Env Mode		Filter Env Invert		
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Filter Env Attack		
+Map	Env L1		Filter Env Decay		
+Map	Env T2		Filter Env Sustain		
+Map	Env L2		Filter Env Release		
+//ENV 4-8					
+Map	Env T3		Amp Env Attack		
+Map	Env L3		Amp Env Decay		
+Map	Env T4		Amp Env Sustain		
+Map	Env Key Follow		Amp Env Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Rate				
+//Map	LFO Delay				
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter B Freq		
+Map	VCF Res		Filter B Resonance		
+Map	VCF Key Follow		Filter B Kbd Track		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter A Freq		
+//AMP					
+Map	VCA Level		Master Level		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter Env Amount		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Filter Env Attack		
+Map	Env L1		Filter Env Decay		
+Map	Env T2		Filter Env Sustain		
+Map	Env L2		Filter Env Release		
+//ENV 4-8					
+Map	Env T3		Oscillator A Attack		
+Map	Env L3		Oscillator A Decay		
+Map	Env T4		Oscillator A Sustain		
+Map	Env Key Follow		Oscillator A Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Propellerheads	NN-XT Advanced Sampler			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Rate				
+//Map	LFO Delay				
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter Freq		
+Map	VCF Res		Filter Res		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+//Map	VCF Env				
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+Map	Env L1		Mod Env Decay		
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+Map	Env T3		Amp Env Attack		
+Map	Env L3		Amp Env Decay		
+//Map	Env T4				
+Map	Env Key Follow		Amp Env Release		
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Propellerhead Software	se.propellerheads.PX7			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Speed		
+Map	LFO Delay		LFO Delay		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Brightness		
+Map	VCF Res		Operator Feedback		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+//Map	VCF Env				
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Operator 1 Output Level		
+Map	Env L1		Operator 2 Output Level		
+Map	Env T2		Operator 3 Output Level		
+Map	Env L2		Operator 4 Output Level		
+//ENV 4-8					
+Map	Env T3		Operator 5 Output Level		
+Map	Env L3		Operator 6 Output Level		
+Map	Env T4		Attack		
+Map	Env Key Follow		Decay		
+//PERFORMANCE					
+Map	Bender Range		Portamento Time		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	AudioRealism	se.audiorealism.reabl2			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Rate				
+//Map	LFO Delay				
+//Map	DCO LFO				
+Map	VCF LFO		Accent		
+//OSC					
+Map	Pulse		Waveform		
+//Map	Sawtooth				
+//Map	Sub				
+Map	PWM		Drive		
+Map	PWM Rate		Distortion		
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Cutoff		
+Map	VCF Res		Resonance		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Highpass		
+//AMP					
+Map	VCA Level		Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Envmod		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+//Map	Env T3				
+Map	Env L3		Decay		
+//Map	Env T4				
+//Map	Env Key Follow				
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	AudioRealism	se.audiorealism.abl3			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Rate				
+//Map	LFO Delay				
+//Map	DCO LFO				
+Map	VCF LFO		Accent		
+//OSC					
+Map	Pulse		Waveform		
+//Map	Sawtooth				
+//Map	Sub				
+Map	PWM		Drive		
+Map	PWM Rate		Distortion		
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Cutoff		
+Map	VCF Res		Resonance		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Highpass		
+//AMP					
+Map	VCA Level		Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Envmod		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+//Map	Env T3				
+Map	Env L3		Decay		
+//Map	Env T4				
+//Map	Env Key Follow				
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Blamsoft, Inc.	com.blamsoft.Viking			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Rate		
+//Map	LFO Delay				
+//Map	DCO LFO				
+Map	VCF LFO		On Amount		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Oscillator 3 Amount		
+Map	Noise Level		Noise Amount		
+//FILTER 1					
+Map	VCF Freq		Cutoff		
+Map	VCF Res		Resonance		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Master Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Amount to Filter		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Filter Attack		
+Map	Env L1		Filter Decay		
+Map	Env T2		Filter Sustain		
+Map	Env L2		Filter Release		
+//ENV 4-8					
+Map	Env T3		Vol Attack		
+Map	Env L3		Vol Decay		
+Map	Env T4		Vol Sustain		
+Map	Env Key Follow		Vol Release		
+//PERFORMANCE					
+Map	Bender Range		Glide Rate		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Blamsoft, Inc.	com.blamsoft.VK2			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Rate		
+//Map	LFO Delay				
+//Map	DCO LFO				
+Map	VCF LFO		Filters Frequency Mod 3 Amount		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filters Frequency		
+Map	VCF Res		Filters Resonance		
+Map	VCF Key Follow		Filters Frequency Mod 2 Amount		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filters Frequency Mod 1 Amount		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Envelope 1 Attack		
+Map	Env L1		Envelope 1 Decay		
+Map	Env T2		Envelope 1 Sustain		
+Map	Env L2		Envelope 1 Release		
+//ENV 4-8					
+Map	Env T3		Envelope 2 Attack		
+Map	Env L3		Envelope 2 Decay		
+Map	Env T4		Envelope 2 Sustain		
+Map	Env Key Follow		Envelope 2 Release		
+//PERFORMANCE					
+Map	Bender Range		Glide Amount		
+//CHORUS					
+//Map	Chorus On				
+Map	Chorus Rate		Unison Detune		
+//					
+
+Scope	Ekssperimental Sounds	se.ekss.es01			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Speed		
+//Map	LFO Delay				
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Sub Osc Level		
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Freq Cut Off		
+Map	VCF Res		Resonance		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		VCF EG Depth		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+Map	Env T3		Attack Time		
+Map	Env L3		Decay Time		
+Map	Env T4		Sustain Level		
+Map	Env Key Follow		Release Time		
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+Map	Chorus Rate		PWM Speed		
+//					
+
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.Tres			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Hertz		
+Map	LFO Delay		LFO 2 Hertz		
+Map	DCO LFO		LFO 2 Gain		
+Map	VCF LFO		LFO 1 Gain		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Sub Level		
+Map	Noise Level		Noise Level		
+//FILTER 1					
+Map	VCF Freq		Filter Cutoff		
+Map	VCF Res		Filter Res		
+Map	VCF Key Follow		Filter Drive		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter Mode		
+//AMP					
+Map	VCA Level		Synth Output		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+//Map	VCF Env				
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Envelope Attack		
+Map	Env L1		Envelope Decay		
+Map	Env T2		Envelope Sustain		
+Map	Env L2		Envelope Release		
+//ENV 4-8					
+Map	Env T3		Amp Envelope Attack		
+Map	Env L3		Amp Envelope Decay		
+Map	Env T4		Amp Envelope Sustain		
+Map	Env Key Follow		Amp Envelope Release		
+//PERFORMANCE					
+Map	Bender Range		Glide Amount		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Jiggery Pokery	com.jiggerypokery.JPSHarmonicSynth			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Rate Hz		
+//Map	LFO Delay				
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+//Map	VCF Freq		Osc 1 Filter		
+//Map	VCF Res		Filter Q		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Master Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+Map	DCO Env		Osc 2 Filter		
+//Map	DCO Env Mode				
+//FILTER ENV					
+//Map	VCF Env				
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Osc 1 Attack		
+Map	Env L1		Osc 1 Decay		
+Map	Env T2		Osc 1 Sustain		
+Map	Env L2		Osc 1 Release		
+//ENV 4-8					
+Map	Env T3		Osc 2 Attack		
+Map	Env L3		Osc 2 Decay		
+Map	Env T4		Osc 2 Sustain		
+Map	Env Key Follow		Osc 2 Release		
+//PERFORMANCE					
+Map	Bender Range		Osc 1 Portamento Speed		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	kiloHearts	com.kilohearts.khsONE			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		Global LFO - Rate (Free)		
+Map	LFO Delay		Voice LFO - Rate		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+Map	Sub Level		Sub - Gain		
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter 1 - Cutoff		
+Map	VCF Res		Filter 1 - Q		
+Map	VCF Key Follow		Filter 1 - Key Tracking		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter 2 - Cutoff		
+//AMP					
+Map	VCA Level		Master - Gain		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter 1 - Env Modulation Amount		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Filter Env - Attack		
+Map	Env L1		Filter Env - Decay		
+Map	Env T2		Filter Env - Sustain		
+Map	Env L2		Filter Env - Release		
+//ENV 4-8					
+Map	Env T3		Amp Env - Attack		
+Map	Env L3		Amp Env - Decay		
+Map	Env T4		Amp Env - Sustain		
+Map	Env Key Follow		Amp Env - Release		
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	KORG	jp.co.korg.MonoPoly			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		MG 1 Frequency		
+Map	LFO Delay		MG 2 Frequency		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+Map	Noise Level		Noise		
+//FILTER 1					
+Map	VCF Freq		VCF Cutoff		
+Map	VCF Res		VCF Resonance		
+Map	VCF Key Follow		VCF KBD Track		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Output Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		VCF EG Intensity		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		VCF EG Attack		
+Map	Env L1		VCF EG Decay		
+Map	Env T2		VCF EG Sustain		
+Map	Env L2		VCF EG Release		
+//ENV 4-8					
+Map	Env T3		VCA EG Attack		
+Map	Env L3		VCA EG Decay		
+Map	Env T4		VCA EG Sustain		
+Map	Env Key Follow		VCA EG Release		
+//PERFORMANCE					
+Map	Bender Range		Portamento		
+//CHORUS					
+//Map	Chorus On				
+Map	Chorus Rate		Voices Unison Detune		
+//					
+
+Scope	KORG	jp.co.korg.Polysix			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		MG FREQUENCY		
+Map	LFO Delay		MG DELAY TIME		
+//Map	DCO LFO				
+Map	VCF LFO		MG LEVEL		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		VCF CUTOFF		
+Map	VCF Res		VCF RESONANCE		
+Map	VCF Key Follow		VCF KBD TRACK		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		VOLUME		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		VCF EG INTENSITY		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+Map	Env T3		EG ATTACK		
+Map	Env L3		EG DECAY		
+Map	Env T4		EG SUSTAIN		
+Map	Env Key Follow		EG RELEASE		
+//PERFORMANCE					
+//Map	Bender Range				
+//CHORUS					
+//Map	Chorus On				
+Map	Chorus Rate		UNISON DETUNE		
+//					
+
+Scope	LoveOne	se.loveone.Protron			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Rate (Free)		
+Map	LFO Delay		LFO 1 Rate (Sync)		
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter 1 Cutoff		
+Map	VCF Res		Filter 1 Resonance		
+Map	VCF Key Follow		Filter 1 Cutoff Keyboard Tracking		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter 2 Cutoff		
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+//Map	VCF Env				
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+//Map	Env T1				
+//Map	Env L1				
+//Map	Env T2				
+//Map	Env L2				
+//ENV 4-8					
+Map	Env T3		Amp Envelope Attack		
+Map	Env L3		Amp Envelope Decay		
+Map	Env T4		Amp Envelope Sustain		
+Map	Env Key Follow		Amp Envelope Release		
+//PERFORMANCE					
+Map	Bender Range		Glide		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Primal Audio	com.primalaudio.FM4			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO Rate		
+//Map	LFO Delay				
+Map	DCO LFO		LFO Pitch		
+Map	VCF LFO		Operator 3 Level		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+Map	PWM		Routing		
+Map	PWM Rate		Feedback		
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Operator 1 Level		
+Map	VCF Res		Operator 2 Level		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+Map	VCA Level		Master Level		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Operator 4 Level		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Operator 2 Envelope Attack		
+Map	Env L1		Operator 2 Envelope Decay		
+Map	Env T2		Operator 2 Envelope Sustain		
+Map	Env L2		Operator 2 Envelope Release		
+//ENV 4-8					
+Map	Env T3		Operator 1 Envelope Attack		
+Map	Env L3		Operator 1 Envelope Decay		
+Map	Env T4		Operator 1 Envelope Sustain		
+Map	Env Key Follow		Operator 1 Envelope Release		
+//PERFORMANCE					
+Map	Bender Range		Glide		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Quadelectra Audioworx	com.quadelectra.Arkana			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		Lfo #1: Rate		
+Map	LFO Delay		Lfo #2: Rate		
+Map	DCO LFO		Matrix Slot #2: Amount		
+Map	VCF LFO		Matrix Slot #1: Amount		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Osc A: Cutoff		
+Map	VCF Res		Osc A: Resonance		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Osc A: Filter Env Amt		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Osc A: Filter Env Attack		
+Map	Env L1		Osc A: Filter Env Decay		
+Map	Env T2		Osc A: Filter Env Sustain		
+Map	Env L2		Osc A: Filter Env Release		
+//ENV 4-8					
+Map	Env T3		Osc A: Amp Env Attack		
+Map	Env L3		Osc A: Amp Env Decay		
+Map	Env T4		Osc A: Amp Env Sustain		
+Map	Env Key Follow		Osc A: Amp Env Release		
+//PERFORMANCE					
+Map	Bender Range		Glide		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Rob Papen	com.robpapen.SubBoomBassRE			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		Filter 1 LFO Speed (ms)		
+//Map	LFO Delay				
+//Map	DCO LFO				
+Map	VCF LFO		Filter 1 LFO Amount		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter 1 Frequency		
+Map	VCF Res		Filter 1 Resonance		
+Map	VCF Key Follow		Filter 1 Key Tracking		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter 2 Frequency		
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter 1 Envelope Amount		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Filter 1 Envelope Attack		
+Map	Env L1		Filter 1 Envelope Decay		
+Map	Env T2		Filter 1 Envelope Sustain		
+Map	Env L2		Filter 1 Envelope Release		
+//ENV 4-8					
+Map	Env T3		Volume Envelope Attack		
+Map	Env L3		Volume Envelope Decay		
+Map	Env T4		Volume Envelope Sustain		
+Map	Env Key Follow		Volume Envelope Release		
+//PERFORMANCE					
+Map	Bender Range		Port Speed		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Synapse Audio	com.synapseAudioSoftware.Antidote			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		Lfo 1 Rate		
+Map	LFO Delay		Lfo 2 Rate		
+Map	DCO LFO		Lfo 2 Target Amount		
+Map	VCF LFO		Lfo 1 Target Amount		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter Cutoff		
+Map	VCF Res		Filter Resonance		
+Map	VCF Key Follow		Filter Key Track		
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter Envelope Amount		
+//Map	VCF Env Mode				
+//AMP ENV					
+Map	VCA Env Mode		Master Volume		
+//ENV 1-4					
+Map	Env T1		Filter Envelope Attack		
+Map	Env L1		Filter Envelope Decay		
+Map	Env T2		Filter Envelope Sustain		
+Map	Env L2		Filter Envelope Release		
+//ENV 4-8					
+Map	Env T3		Amp Envelope Attack		
+Map	Env L3		Amp Envelope Decay		
+Map	Env T4		Amp Envelope Sustain		
+Map	Env Key Follow		Amp Envelope Release		
+//PERFORMANCE					
+Map	Bender Range		Glide		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Synapse Audio	com.synapseAudioSoftware.Legend			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		Oscillator 3 Semi		
+//Map	LFO Delay				
+//Map	DCO LFO				
+//Map	VCF LFO				
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+Map	PWM		Drive Amount		
+Map	PWM Rate		Feedback Amount		
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter Cutoff		
+Map	VCF Res		Filter Resonance		
+//Map	VCF Key Follow				
+//Map	VCF Aftertouch				
+//FILTER 2					
+//Map	VCF HPF				
+//AMP					
+//Map	VCA Level				
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Filter Envelope Amount		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Filter Envelope Attack		
+Map	Env L1		Filter Envelope Decay		
+Map	Env T2		Filter Envelope Sustain		
+Map	Env L2		Filter Envelope Release		
+//ENV 4-8					
+Map	Env T3		Amplifier Envelope Attack		
+Map	Env L3		Amplifier Envelope Decay		
+Map	Env T4		Amplifier Envelope Sustain		
+Map	Env Key Follow		Amplifier Envelope Release		
+//PERFORMANCE					
+Map	Bender Range		Glide		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+
+Scope	Zvork	fr.zvork.Noxious			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Rate		LFO 1 Shape		
+Map	LFO Delay		LFO 1 Delay		
+Map	DCO LFO		LFO 1 - Strength		
+Map	VCF LFO		LFO 1 Frequency		
+//OSC					
+//Map	Pulse				
+//Map	Sawtooth				
+//Map	Sub				
+//Map	PWM				
+//Map	PWM Rate				
+//Map	DCO Range				
+//Map	DCO Aftertouch				
+//MIXER					
+//Map	Sub Level				
+//Map	Noise Level				
+//FILTER 1					
+Map	VCF Freq		Filter 1 Cutoff Freq.		
+Map	VCF Res		Filter 1 Resonance		
+Map	VCF Key Follow		Filter 1 Frequency Kbd. Track - Strength		
+//Map	VCF Aftertouch				
+//FILTER 2					
+Map	VCF HPF		Filter 2 Cutoff Freq.		
+//AMP					
+Map	VCA Level		Volume		
+//Map	VCA Aftertouch				
+//PITCH ENV					
+//Map	DCO Env				
+//Map	DCO Env Mode				
+//FILTER ENV					
+Map	VCF Env		Modulation Env. 1 - Strength		
+//Map	VCF Env Mode				
+//AMP ENV					
+//Map	VCA Env Mode				
+//ENV 1-4					
+Map	Env T1		Mod. Env. 1 Attack Time		
+Map	Env L1		Mod. Env. 1 Decay Time		
+Map	Env T2		Mod. Env. 1 Sustain Level		
+Map	Env L2		Mod. Env. 1 Release Time		
+//ENV 4-8					
+Map	Env T3		Amp. Env. - Attack Time		
+Map	Env L3		Amp. Env. - Decay Time		
+Map	Env T4		Amp. Env. - Sustain Level		
+Map	Env Key Follow		Amp. Env. - Release Time		
+//PERFORMANCE					
+Map	Bender Range		Glide		
+//CHORUS					
+//Map	Chorus On				
+//Map	Chorus Rate				
+//					
+

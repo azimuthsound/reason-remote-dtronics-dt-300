@@ -1,0 +1,11 @@
+version={1,0,0}
+
+function remote_supported_control_surfaces()
+	local surfaces =		{
+			{ manufacturer="DTronics", model="DT 300",
+				source="DT 300.lua", picture="DT 300.png", 
+				in_ports={{description="In Port"}}, out_ports={}, 
+				has_keyboard=false,
+				setup_info_text="" },
+		}	return surfaces
+end
